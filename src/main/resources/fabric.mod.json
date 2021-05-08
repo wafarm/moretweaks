@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "moretweaks",
+  "version": "${version}",
+  "name": "Moretweaks",
+  "description": "A mod that adds some tweaks to Minecraft",
+  "authors": [
+    "Wafarm"
+  ],
+  "contact": {},
+  "license": "LGPLv3",
+  "icon": "assets/moretweaks/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "io.github.wafarm.moretweaks.Moretweaks"
+    ],
+    "modmenu": [
+      "io.github.wafarm.moretweaks.compat.modmenu.ModMenuImpl"
+    ]
+  },
+  "mixins": [
+    "moretweaks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "malilib": ">=0.10.0-dev.21",
+    "minecraft": "1.16.5"
+  }
+}

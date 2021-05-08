@@ -1,0 +1,15 @@
+{
+  "moretweaks.gui.title.configs": "Moretweaks Configs",
+
+  "moretweaks.gui.button.config_gui.generic_hotkeys": "Generic Hotkeys",
+  "moretweaks.gui.button.config_gui.tweak_toggles": "Tweak Toggles",
+  "moretweaks.gui.button.config_gui.tweak_hotkeys": "Tweak Hotkeys",
+  "moretweaks.gui.button.config_gui.disable_toggles": "TweakNo Toggles",
+  "moretweaks.gui.button.config_gui.disable_hotkeys": "TweakNo Hotkeys",
+
+  "moretweaks.hotkeys.category.disable_toggle_hotkeys": "Disable Toggle Hotkeys",
+  "moretweaks.hotkeys.category.generic_hotkeys": "Generic hotkeys",
+  "moretweaks.hotkeys.category.tweak_toggle_hotkeys": "Tweak toggle hotkeys",
+
+  "moretweaks.label.config_comment.single_player_only": "§6Note: This feature works either at all or§r\n§6at least fully only in single player§r"
+}
